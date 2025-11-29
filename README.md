@@ -23,7 +23,7 @@ The system follows a classic RAG pattern with two main workflows:
 3. **Generate Response** → LLM uses retrieved context to answer
 4. **Return Answer** → User receives the response
 
-![Architecture Diagram](.\docu_chatbot_Diagram.drawio.png)
+![Architecture Diagram](docu_chatbot_Diagram.drawio.png)
 
 ## 🛠️ Tech Stack
 
